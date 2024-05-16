@@ -1,0 +1,5 @@
+# Ignore .mono directory if not using Mono
+.mono/
+
+# Ignore .vs directory for Visual Studio specific files
+.vs/
