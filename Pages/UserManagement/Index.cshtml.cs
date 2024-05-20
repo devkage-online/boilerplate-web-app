@@ -1,4 +1,5 @@
 using Microsoft.AspNetCore.Authorization;
+using Microsoft.AspNetCore.Identity;
 using Microsoft.AspNetCore.Mvc.RazorPages;
 
 namespace BoilerplateWebApp.Pages;
@@ -7,13 +8,19 @@ namespace BoilerplateWebApp.Pages;
 public class UserManagementModel : PageModel
 {
     private readonly ILogger<UserManagementModel> _logger;
+    private readonly UserManager<IdentityUser> _userManager;
 
-    public UserManagementModel(ILogger<UserManagementModel> logger)
+    public UserManagementModel(ILogger<UserManagementModel> logger, UserManager<IdentityUser> userManager)
     {
         _logger = logger;
+        _userManager = userManager;
     }
+
+    public new IList<IdentityUser> User { get; set; } = default!;
 
     public void OnGet()
     {
+        User = _userManager.Users.ToList();
+        _logger.LogInformation("");
     }
 }
