@@ -10,10 +10,12 @@ public class EditModel : PageModel
 {
     private readonly ILogger<EditModel> _logger;
     private readonly UserManager<IdentityUser> _userManager;
-    public EditModel(ILogger<EditModel> logger, UserManager<IdentityUser> userManager)
+    private readonly SignInManager<IdentityUser> _signInManager;
+    public EditModel(ILogger<EditModel> logger, UserManager<IdentityUser> userManager, SignInManager<IdentityUser> signInManager)
     {
         _logger = logger;
         _userManager = userManager;
+        _signInManager = signInManager;
     }
 
     [BindProperty]
@@ -68,10 +70,10 @@ public class EditModel : PageModel
         {
             User = user;
         }
-        
+
         var userRoles = await _userManager.GetRolesAsync(User);
         var currentRole = userRoles.FirstOrDefault()!;
-        
+
         if (currentRole != SelectedRole)
         {
             if (!string.IsNullOrEmpty(currentRole))
@@ -83,7 +85,13 @@ public class EditModel : PageModel
                 await _userManager.AddToRoleAsync(user, SelectedRole);
             }
 
-            StatusMessage = "User role has been changed.";
+            await _userManager.UpdateSecurityStampAsync(user);
+
+            var authenticatedUserId = _userManager.GetUserAsync(HttpContext.User).Result!.Id; // User yang sedang login
+            if (id == authenticatedUserId)
+            {
+                await _signInManager.SignOutAsync();
+            }
         }
 
         return Redirect($"/UserManagement/Edit?id={id}");

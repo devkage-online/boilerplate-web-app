@@ -15,7 +15,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("BoilerplateWebApp")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+fa4db18b77ec30dbc4d6cd77e52e0e9ae774899f")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+49c0bd3f9684bf6d9e116cb0668d1b03a82033a9")]
 [assembly: System.Reflection.AssemblyProductAttribute("BoilerplateWebApp")]
 [assembly: System.Reflection.AssemblyTitleAttribute("BoilerplateWebApp")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
