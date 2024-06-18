@@ -1,5 +1,6 @@
 using Microsoft.AspNetCore.Authorization;
 using Microsoft.AspNetCore.Identity;
+using Microsoft.AspNetCore.Mvc;
 using Microsoft.AspNetCore.Mvc.RazorPages;
 
 namespace BoilerplateWebApp.Pages;
@@ -17,6 +18,9 @@ public class UserManagementModel : PageModel
     }
 
     public new IList<IdentityUser> User { get; set; } = default!;
+
+    [TempData]
+    public string StatusMessage { get; set; } = string.Empty;
 
     public void OnGet()
     {

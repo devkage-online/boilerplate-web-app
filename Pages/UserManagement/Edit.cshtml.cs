@@ -23,6 +23,7 @@ public class EditModel : PageModel
     public string Role { get; set; } = string.Empty;
     [BindProperty]
     public string SelectedRole { get; set; } = string.Empty;
+    [TempData]
     public string StatusMessage { get; set; } = string.Empty;
     public List<string> Roles { get; set; } = new List<string> { "Admin", "User" };
 
@@ -93,6 +94,8 @@ public class EditModel : PageModel
                 await _signInManager.SignOutAsync();
             }
         }
+
+        StatusMessage = "User role has been updated";
 
         return Redirect($"/UserManagement/Edit?id={id}");
     }
