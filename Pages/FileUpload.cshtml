@@ -1,0 +1,51 @@
+﻿@page
+@model BoilerplateWebApp.Pages.FileUploadModel
+@{
+  ViewData["Title"] = "File Upload";
+}
+
+<h1>File Upload</h1>
+
+<form method="post" enctype="multipart/form-data">
+    <div class="form-group">
+        <div class="col-md-10">
+            <p>Upload one or more files using this form:</p>
+            <input type="file" name="files" multiple required/>
+        </div>
+    </div>
+    <div class="form-group mt-2">
+        <div class="col-md-10">
+            <input type="submit" value="Upload" />
+        </div>
+    </div>
+</form>
+
+<table class="table mt-3">
+    <thead>
+        <tr>
+            <th>
+                Id
+            </th>
+            <th>
+                Filename
+            </th>
+            <th></th>
+        </tr>
+    </thead>
+    <tbody>
+        @foreach (var item in Model.UploadedFilesList)
+        {
+            <tr>
+                <td>
+                    @Html.DisplayFor(modelItem => item.Id)
+                </td>
+                <td>
+                    @Html.DisplayFor(modelItem => item.FileName)
+                </td>
+                <td>
+                    <a asp-page="./FileUpload" asp-route-id="@item.Id">Download</a>
+                </td>
+            </tr>
+        }
+    </tbody>
+</table>

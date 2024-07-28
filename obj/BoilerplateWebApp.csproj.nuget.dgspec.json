@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "/home/bonski/devkage-posts/BoilerplateWebApp/BoilerplateWebApp.csproj": {}
+    "/home/bonski/devkage.online/boilerplate-web-app/BoilerplateWebApp.csproj": {}
   },
   "projects": {
-    "/home/bonski/devkage-posts/BoilerplateWebApp/BoilerplateWebApp.csproj": {
+    "/home/bonski/devkage.online/boilerplate-web-app/BoilerplateWebApp.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/home/bonski/devkage-posts/BoilerplateWebApp/BoilerplateWebApp.csproj",
+        "projectUniqueName": "/home/bonski/devkage.online/boilerplate-web-app/BoilerplateWebApp.csproj",
         "projectName": "BoilerplateWebApp",
-        "projectPath": "/home/bonski/devkage-posts/BoilerplateWebApp/BoilerplateWebApp.csproj",
+        "projectPath": "/home/bonski/devkage.online/boilerplate-web-app/BoilerplateWebApp.csproj",
         "packagesPath": "/home/bonski/.nuget/packages/",
-        "outputPath": "/home/bonski/devkage-posts/BoilerplateWebApp/obj/",
+        "outputPath": "/home/bonski/devkage.online/boilerplate-web-app/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "/home/bonski/.nuget/NuGet/NuGet.Config"
@@ -43,6 +43,10 @@
         "net8.0": {
           "targetAlias": "net8.0",
           "dependencies": {
+            "AWSSDK.S3": {
+              "target": "Package",
+              "version": "[3.7.400, )"
+            },
             "Microsoft.AspNetCore.Diagnostics.EntityFrameworkCore": {
               "target": "Package",
               "version": "[8.0.3, )"
@@ -87,7 +91,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "/usr/share/dotnet/sdk/8.0.203/PortableRuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "/usr/share/dotnet/sdk/8.0.303/PortableRuntimeIdentifierGraph.json"
         }
       }
     }

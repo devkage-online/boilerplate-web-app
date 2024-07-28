@@ -17,163 +17,167 @@ build_property._SupportedPlatformList = Linux,macOS,Windows
 build_property._SupportedPlatformList = Linux,macOS,Windows
 build_property.RootNamespace = BoilerplateWebApp
 build_property.RootNamespace = BoilerplateWebApp
-build_property.ProjectDir = /home/bonski/devkage-posts/BoilerplateWebApp/
+build_property.ProjectDir = /home/bonski/devkage.online/boilerplate-web-app/
 build_property.EnableComHosting = 
 build_property.EnableGeneratedComInterfaceComImportInterop = 
 build_property.RazorLangVersion = 8.0
 build_property.SupportLocalizedComponentNames = 
 build_property.GenerateRazorMetadataSourceChecksumAttributes = 
-build_property.MSBuildProjectDirectory = /home/bonski/devkage-posts/BoilerplateWebApp
+build_property.MSBuildProjectDirectory = /home/bonski/devkage.online/boilerplate-web-app
 build_property._RazorSourceGeneratorDebug = 
 
-[/home/bonski/devkage-posts/BoilerplateWebApp/Areas/Identity/Pages/Account/Login.cshtml]
+[/home/bonski/devkage.online/boilerplate-web-app/Areas/Identity/Pages/Account/Login.cshtml]
 build_metadata.AdditionalFiles.TargetPath = QXJlYXMvSWRlbnRpdHkvUGFnZXMvQWNjb3VudC9Mb2dpbi5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[/home/bonski/devkage-posts/BoilerplateWebApp/Areas/Identity/Pages/Account/Logout.cshtml]
+[/home/bonski/devkage.online/boilerplate-web-app/Areas/Identity/Pages/Account/Logout.cshtml]
 build_metadata.AdditionalFiles.TargetPath = QXJlYXMvSWRlbnRpdHkvUGFnZXMvQWNjb3VudC9Mb2dvdXQuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[/home/bonski/devkage-posts/BoilerplateWebApp/Areas/Identity/Pages/Account/Manage/ChangePassword.cshtml]
+[/home/bonski/devkage.online/boilerplate-web-app/Areas/Identity/Pages/Account/Manage/ChangePassword.cshtml]
 build_metadata.AdditionalFiles.TargetPath = QXJlYXMvSWRlbnRpdHkvUGFnZXMvQWNjb3VudC9NYW5hZ2UvQ2hhbmdlUGFzc3dvcmQuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[/home/bonski/devkage-posts/BoilerplateWebApp/Areas/Identity/Pages/Account/Manage/DeletePersonalData.cshtml]
+[/home/bonski/devkage.online/boilerplate-web-app/Areas/Identity/Pages/Account/Manage/DeletePersonalData.cshtml]
 build_metadata.AdditionalFiles.TargetPath = QXJlYXMvSWRlbnRpdHkvUGFnZXMvQWNjb3VudC9NYW5hZ2UvRGVsZXRlUGVyc29uYWxEYXRhLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[/home/bonski/devkage-posts/BoilerplateWebApp/Areas/Identity/Pages/Account/Manage/Disable2fa.cshtml]
+[/home/bonski/devkage.online/boilerplate-web-app/Areas/Identity/Pages/Account/Manage/Disable2fa.cshtml]
 build_metadata.AdditionalFiles.TargetPath = QXJlYXMvSWRlbnRpdHkvUGFnZXMvQWNjb3VudC9NYW5hZ2UvRGlzYWJsZTJmYS5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[/home/bonski/devkage-posts/BoilerplateWebApp/Areas/Identity/Pages/Account/Manage/DownloadPersonalData.cshtml]
+[/home/bonski/devkage.online/boilerplate-web-app/Areas/Identity/Pages/Account/Manage/DownloadPersonalData.cshtml]
 build_metadata.AdditionalFiles.TargetPath = QXJlYXMvSWRlbnRpdHkvUGFnZXMvQWNjb3VudC9NYW5hZ2UvRG93bmxvYWRQZXJzb25hbERhdGEuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[/home/bonski/devkage-posts/BoilerplateWebApp/Areas/Identity/Pages/Account/Manage/EnableAuthenticator.cshtml]
+[/home/bonski/devkage.online/boilerplate-web-app/Areas/Identity/Pages/Account/Manage/EnableAuthenticator.cshtml]
 build_metadata.AdditionalFiles.TargetPath = QXJlYXMvSWRlbnRpdHkvUGFnZXMvQWNjb3VudC9NYW5hZ2UvRW5hYmxlQXV0aGVudGljYXRvci5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[/home/bonski/devkage-posts/BoilerplateWebApp/Areas/Identity/Pages/Account/Manage/ExternalLogins.cshtml]
+[/home/bonski/devkage.online/boilerplate-web-app/Areas/Identity/Pages/Account/Manage/ExternalLogins.cshtml]
 build_metadata.AdditionalFiles.TargetPath = QXJlYXMvSWRlbnRpdHkvUGFnZXMvQWNjb3VudC9NYW5hZ2UvRXh0ZXJuYWxMb2dpbnMuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[/home/bonski/devkage-posts/BoilerplateWebApp/Areas/Identity/Pages/Account/Manage/GenerateRecoveryCodes.cshtml]
+[/home/bonski/devkage.online/boilerplate-web-app/Areas/Identity/Pages/Account/Manage/GenerateRecoveryCodes.cshtml]
 build_metadata.AdditionalFiles.TargetPath = QXJlYXMvSWRlbnRpdHkvUGFnZXMvQWNjb3VudC9NYW5hZ2UvR2VuZXJhdGVSZWNvdmVyeUNvZGVzLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[/home/bonski/devkage-posts/BoilerplateWebApp/Areas/Identity/Pages/Account/Manage/Index.cshtml]
+[/home/bonski/devkage.online/boilerplate-web-app/Areas/Identity/Pages/Account/Manage/Index.cshtml]
 build_metadata.AdditionalFiles.TargetPath = QXJlYXMvSWRlbnRpdHkvUGFnZXMvQWNjb3VudC9NYW5hZ2UvSW5kZXguY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[/home/bonski/devkage-posts/BoilerplateWebApp/Areas/Identity/Pages/Account/Manage/PersonalData.cshtml]
+[/home/bonski/devkage.online/boilerplate-web-app/Areas/Identity/Pages/Account/Manage/PersonalData.cshtml]
 build_metadata.AdditionalFiles.TargetPath = QXJlYXMvSWRlbnRpdHkvUGFnZXMvQWNjb3VudC9NYW5hZ2UvUGVyc29uYWxEYXRhLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[/home/bonski/devkage-posts/BoilerplateWebApp/Areas/Identity/Pages/Account/Manage/ResetAuthenticator.cshtml]
+[/home/bonski/devkage.online/boilerplate-web-app/Areas/Identity/Pages/Account/Manage/ResetAuthenticator.cshtml]
 build_metadata.AdditionalFiles.TargetPath = QXJlYXMvSWRlbnRpdHkvUGFnZXMvQWNjb3VudC9NYW5hZ2UvUmVzZXRBdXRoZW50aWNhdG9yLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[/home/bonski/devkage-posts/BoilerplateWebApp/Areas/Identity/Pages/Account/Manage/SetPassword.cshtml]
+[/home/bonski/devkage.online/boilerplate-web-app/Areas/Identity/Pages/Account/Manage/SetPassword.cshtml]
 build_metadata.AdditionalFiles.TargetPath = QXJlYXMvSWRlbnRpdHkvUGFnZXMvQWNjb3VudC9NYW5hZ2UvU2V0UGFzc3dvcmQuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[/home/bonski/devkage-posts/BoilerplateWebApp/Areas/Identity/Pages/Account/Manage/TwoFactorAuthentication.cshtml]
+[/home/bonski/devkage.online/boilerplate-web-app/Areas/Identity/Pages/Account/Manage/TwoFactorAuthentication.cshtml]
 build_metadata.AdditionalFiles.TargetPath = QXJlYXMvSWRlbnRpdHkvUGFnZXMvQWNjb3VudC9NYW5hZ2UvVHdvRmFjdG9yQXV0aGVudGljYXRpb24uY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[/home/bonski/devkage-posts/BoilerplateWebApp/Areas/Identity/Pages/Account/Manage/_Layout.cshtml]
+[/home/bonski/devkage.online/boilerplate-web-app/Areas/Identity/Pages/Account/Manage/_Layout.cshtml]
 build_metadata.AdditionalFiles.TargetPath = QXJlYXMvSWRlbnRpdHkvUGFnZXMvQWNjb3VudC9NYW5hZ2UvX0xheW91dC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[/home/bonski/devkage-posts/BoilerplateWebApp/Areas/Identity/Pages/Account/Manage/_ManageNav.cshtml]
+[/home/bonski/devkage.online/boilerplate-web-app/Areas/Identity/Pages/Account/Manage/_ManageNav.cshtml]
 build_metadata.AdditionalFiles.TargetPath = QXJlYXMvSWRlbnRpdHkvUGFnZXMvQWNjb3VudC9NYW5hZ2UvX01hbmFnZU5hdi5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[/home/bonski/devkage-posts/BoilerplateWebApp/Areas/Identity/Pages/Account/Manage/_StatusMessage.cshtml]
+[/home/bonski/devkage.online/boilerplate-web-app/Areas/Identity/Pages/Account/Manage/_StatusMessage.cshtml]
 build_metadata.AdditionalFiles.TargetPath = QXJlYXMvSWRlbnRpdHkvUGFnZXMvQWNjb3VudC9NYW5hZ2UvX1N0YXR1c01lc3NhZ2UuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[/home/bonski/devkage-posts/BoilerplateWebApp/Areas/Identity/Pages/Account/Manage/_ViewImports.cshtml]
+[/home/bonski/devkage.online/boilerplate-web-app/Areas/Identity/Pages/Account/Manage/_ViewImports.cshtml]
 build_metadata.AdditionalFiles.TargetPath = QXJlYXMvSWRlbnRpdHkvUGFnZXMvQWNjb3VudC9NYW5hZ2UvX1ZpZXdJbXBvcnRzLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[/home/bonski/devkage-posts/BoilerplateWebApp/Areas/Identity/Pages/Account/Register.cshtml]
+[/home/bonski/devkage.online/boilerplate-web-app/Areas/Identity/Pages/Account/Register.cshtml]
 build_metadata.AdditionalFiles.TargetPath = QXJlYXMvSWRlbnRpdHkvUGFnZXMvQWNjb3VudC9SZWdpc3Rlci5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[/home/bonski/devkage-posts/BoilerplateWebApp/Areas/Identity/Pages/Account/RegisterConfirmation.cshtml]
+[/home/bonski/devkage.online/boilerplate-web-app/Areas/Identity/Pages/Account/RegisterConfirmation.cshtml]
 build_metadata.AdditionalFiles.TargetPath = QXJlYXMvSWRlbnRpdHkvUGFnZXMvQWNjb3VudC9SZWdpc3RlckNvbmZpcm1hdGlvbi5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[/home/bonski/devkage-posts/BoilerplateWebApp/Areas/Identity/Pages/Account/_ViewImports.cshtml]
+[/home/bonski/devkage.online/boilerplate-web-app/Areas/Identity/Pages/Account/_ViewImports.cshtml]
 build_metadata.AdditionalFiles.TargetPath = QXJlYXMvSWRlbnRpdHkvUGFnZXMvQWNjb3VudC9fVmlld0ltcG9ydHMuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[/home/bonski/devkage-posts/BoilerplateWebApp/Areas/Identity/Pages/_ValidationScriptsPartial.cshtml]
+[/home/bonski/devkage.online/boilerplate-web-app/Areas/Identity/Pages/_ValidationScriptsPartial.cshtml]
 build_metadata.AdditionalFiles.TargetPath = QXJlYXMvSWRlbnRpdHkvUGFnZXMvX1ZhbGlkYXRpb25TY3JpcHRzUGFydGlhbC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[/home/bonski/devkage-posts/BoilerplateWebApp/Areas/Identity/Pages/_ViewImports.cshtml]
+[/home/bonski/devkage.online/boilerplate-web-app/Areas/Identity/Pages/_ViewImports.cshtml]
 build_metadata.AdditionalFiles.TargetPath = QXJlYXMvSWRlbnRpdHkvUGFnZXMvX1ZpZXdJbXBvcnRzLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[/home/bonski/devkage-posts/BoilerplateWebApp/Areas/Identity/Pages/_ViewStart.cshtml]
+[/home/bonski/devkage.online/boilerplate-web-app/Areas/Identity/Pages/_ViewStart.cshtml]
 build_metadata.AdditionalFiles.TargetPath = QXJlYXMvSWRlbnRpdHkvUGFnZXMvX1ZpZXdTdGFydC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[/home/bonski/devkage-posts/BoilerplateWebApp/Pages/Error.cshtml]
+[/home/bonski/devkage.online/boilerplate-web-app/Pages/Error.cshtml]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXMvRXJyb3IuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[/home/bonski/devkage-posts/BoilerplateWebApp/Pages/Index.cshtml]
+[/home/bonski/devkage.online/boilerplate-web-app/Pages/FileUpload.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXMvRmlsZVVwbG9hZC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[/home/bonski/devkage.online/boilerplate-web-app/Pages/Index.cshtml]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXMvSW5kZXguY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[/home/bonski/devkage-posts/BoilerplateWebApp/Pages/Privacy.cshtml]
+[/home/bonski/devkage.online/boilerplate-web-app/Pages/Privacy.cshtml]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXMvUHJpdmFjeS5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[/home/bonski/devkage-posts/BoilerplateWebApp/Pages/Shared/_LoginPartial.cshtml]
+[/home/bonski/devkage.online/boilerplate-web-app/Pages/Shared/_LoginPartial.cshtml]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXMvU2hhcmVkL19Mb2dpblBhcnRpYWwuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[/home/bonski/devkage-posts/BoilerplateWebApp/Pages/Shared/_StatusMessage.cshtml]
+[/home/bonski/devkage.online/boilerplate-web-app/Pages/Shared/_StatusMessage.cshtml]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXMvU2hhcmVkL19TdGF0dXNNZXNzYWdlLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[/home/bonski/devkage-posts/BoilerplateWebApp/Pages/Shared/_ValidationScriptsPartial.cshtml]
+[/home/bonski/devkage.online/boilerplate-web-app/Pages/Shared/_ValidationScriptsPartial.cshtml]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXMvU2hhcmVkL19WYWxpZGF0aW9uU2NyaXB0c1BhcnRpYWwuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[/home/bonski/devkage-posts/BoilerplateWebApp/Pages/UserManagement/Create.cshtml]
+[/home/bonski/devkage.online/boilerplate-web-app/Pages/UserManagement/Create.cshtml]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXMvVXNlck1hbmFnZW1lbnQvQ3JlYXRlLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[/home/bonski/devkage-posts/BoilerplateWebApp/Pages/UserManagement/Delete.cshtml]
+[/home/bonski/devkage.online/boilerplate-web-app/Pages/UserManagement/Delete.cshtml]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXMvVXNlck1hbmFnZW1lbnQvRGVsZXRlLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[/home/bonski/devkage-posts/BoilerplateWebApp/Pages/UserManagement/Details.cshtml]
+[/home/bonski/devkage.online/boilerplate-web-app/Pages/UserManagement/Details.cshtml]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXMvVXNlck1hbmFnZW1lbnQvRGV0YWlscy5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[/home/bonski/devkage-posts/BoilerplateWebApp/Pages/UserManagement/Edit.cshtml]
+[/home/bonski/devkage.online/boilerplate-web-app/Pages/UserManagement/Edit.cshtml]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXMvVXNlck1hbmFnZW1lbnQvRWRpdC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[/home/bonski/devkage-posts/BoilerplateWebApp/Pages/UserManagement/Index.cshtml]
+[/home/bonski/devkage.online/boilerplate-web-app/Pages/UserManagement/Index.cshtml]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXMvVXNlck1hbmFnZW1lbnQvSW5kZXguY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[/home/bonski/devkage-posts/BoilerplateWebApp/Pages/_ViewImports.cshtml]
+[/home/bonski/devkage.online/boilerplate-web-app/Pages/_ViewImports.cshtml]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXMvX1ZpZXdJbXBvcnRzLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[/home/bonski/devkage-posts/BoilerplateWebApp/Pages/_ViewStart.cshtml]
+[/home/bonski/devkage.online/boilerplate-web-app/Pages/_ViewStart.cshtml]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXMvX1ZpZXdTdGFydC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[/home/bonski/devkage-posts/BoilerplateWebApp/Pages/Shared/_Layout.cshtml]
+[/home/bonski/devkage.online/boilerplate-web-app/Pages/Shared/_Layout.cshtml]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXMvU2hhcmVkL19MYXlvdXQuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = b-aq137a3v6r

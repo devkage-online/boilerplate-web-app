@@ -1,9 +1,11 @@
 {
   "version": 2,
-  "dgSpecHash": "hFCLWPGvxlw/c+9NNS/vPhOiRIP6SQc41XM9rTWycEv8bXP7unz3jXuaHwfvQuejX8+6dlyPI61ZU9dzs2TRCA==",
+  "dgSpecHash": "n70LisJne9k=",
   "success": true,
-  "projectFilePath": "/home/bonski/devkage-posts/BoilerplateWebApp/BoilerplateWebApp.csproj",
+  "projectFilePath": "/home/bonski/devkage.online/boilerplate-web-app/BoilerplateWebApp.csproj",
   "expectedPackageFiles": [
+    "/home/bonski/.nuget/packages/awssdk.core/3.7.400/awssdk.core.3.7.400.nupkg.sha512",
+    "/home/bonski/.nuget/packages/awssdk.s3/3.7.400/awssdk.s3.3.7.400.nupkg.sha512",
     "/home/bonski/.nuget/packages/humanizer/2.14.1/humanizer.2.14.1.nupkg.sha512",
     "/home/bonski/.nuget/packages/humanizer.core/2.14.1/humanizer.core.2.14.1.nupkg.sha512",
     "/home/bonski/.nuget/packages/humanizer.core.af/2.14.1/humanizer.core.af.2.14.1.nupkg.sha512",
